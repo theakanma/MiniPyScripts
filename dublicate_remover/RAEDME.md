@@ -19,10 +19,10 @@ Clone the repository or download the script (remove_duplicates.py).
 Open a terminal or command prompt.
 Navigate to the directory containing the script.
 Run the script with the following command:
-bash
-Copy code
-python remove_duplicates.py
+```bash
+python main.py
+```
 Make sure to replace "path/to/your/folder" in the script with the path to the folder where you want to remove duplicate images.
 
-Important Note
+## Important Note
 The script uses a default structural similarity threshold of 0.95. You can adjust this threshold in the script based on your needs.
