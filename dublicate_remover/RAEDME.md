@@ -25,4 +25,4 @@ python main.py
 Make sure to replace "path/to/your/folder" in the script with the path to the folder where you want to remove duplicate images.
 
 ## Important Note
-The script uses a default structural similarity threshold of 0.95. You can adjust this threshold in the script based on your needs.
+The script uses a default structural similarity threshold of __0.95__. You can adjust this threshold in the script based on your needs.
